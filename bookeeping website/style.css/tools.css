@@ -1,0 +1,53 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS ALL DEVICES */
+*#dm *.dmBody div.u_1400500996
+{
+	background-color:var(--color_3) !important;
+}
+*#dm *.dmBody div.u_1241337677
+{
+	background-color:var(--color_3) !important;
+}
+*#dm *.dmBody div.u_1676203797
+{
+	background-color:var(--color_4) !important;
+}
+*#dm *.dmBody div.u_1779575014
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1405078172
+{
+	background-color:var(--color_3) !important;
+}
+*#dm *.dmBody div.u_Taxes
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_Audit
+{
+	background-color:var(--color_3) !important;
+}
+*#dm *.dmBody div.u_Accounting
+{
+	background-color:var(--color_3) !important;
+}
+*#dm *.dmBody div.u_Consulting
+{
+	background-color:var(--color_3) !important;
+}
+*#dm *.dmBody div.u_1094637732
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_MonthlyReport
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody nav.u_1781397786
+{
+	color:black !important;
+}

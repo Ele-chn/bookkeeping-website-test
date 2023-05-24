@@ -1,0 +1,21 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS ALL DEVICES */
+*#dm *.dmBody div.u_1904607683 .svg{
+    width:50% !important;
+    color:var(--color_3) !important;
+    fill:var(--color_3) !important}
+    *#dm *.dmBody div.u_1904607683{
+    border-radius:50% !important;
+    border-color:var(--color_2) !important;
+    border-width:0 !important;
+    background-color:var(--color_4) !important;
+    border-style:solid !important}
+    *#dm *.dmBody div.u_1285533916 .svg{
+    width:50% !important;
+    color:var(--color_3) !important;
+    fill:var(--color_3) !important}
+    *#dm *.dmBody div.u_1285533916{
+    border-radius:50% !important;
+    border-color:var(--color_2) !important;
+    border-width:0 !important;
+    background-color:var(--color_4) !important;
+    border-style:solid !important}

@@ -1,0 +1,31 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS ALL DEVICES */
+*#dm *.dmBody a.span.textonly{
+    color:var(--color_3) !important}
+    *#dm *.dmBody div.dmform-error{
+    font-style:normal !important}
+    *#dm *.dmBody div.dmforminput textarea{
+    font-style:italic !important}
+    *#dm *.dmBody div.dmforminput *.fileUploadLink{
+    font-style:italic !important}
+    *#dm *.dmBody div.checkboxwrapper span{
+    font-style:italic !important}
+    *#dm *.dmBody div.radiowrapper span{
+    font-style:italic !important}
+    *#dm *.dmBody div.u_1829660991 .caption-container .caption-title{
+    color:var(--color_2) !important}
+    *#dm *.dmBody div.u_1620106714{
+    background-color:var(--color_4) !important;
+    border-radius:5px !important;
+    -moz-border-radius:5px !important;
+    -webkit-border-radius:5px !important}
+    *#dm *.dmBody div.u_1652969411{
+    background-color:rgba(0,0,0,0) !important}
+    *#dm *.dmBody a.u_1023142679:hover{
+    background-image:none !important}
+    *#dm *.dmBody a.u_1023142679.hover{
+    background-image:none !important}
+    *#dm *.dmBody nav.u_1781397786{
+    color:black !important}
+    *#dm *.dmBody div.u_1243667655{
+    background-repeat:no-repeat !important;
+    background-image:url(https://irp.cdn-website.com/md/dmtmpl/5d13814b-1b06-48dc-86fe-9d82f4c4671c/dms3rep/multi/account-accounting-balance-164686.jpg) !important}

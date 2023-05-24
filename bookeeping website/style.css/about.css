@@ -1,0 +1,9 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS ALL DEVICES */
+*#dm *.dmBody div.u_1407848186
+{
+	background-color:var(--color_4) !important;
+}
+*#dm *.dmBody nav.u_1781397786
+{
+	color:black !important;
+}

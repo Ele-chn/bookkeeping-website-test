@@ -1,0 +1,22 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS MOBILE DEVICES */
+*#dm *.dmBody div.u_1168548940{
+    display:block !important;
+    float:none !important;
+    top:0 !important;
+    left:0 !important;
+    width:calc(100% - 17px) !important;
+    position:relative !important;
+    height:auto !important;
+    padding-top:2px !important;
+    padding-left:0 !important;
+    padding-bottom:2px !important;
+    margin-right:auto !important;
+    margin-left:auto !important;
+    max-width:309px !important;
+    margin-top:8px !important;
+    margin-bottom:8px !important;
+    padding-right:0 !important;
+    min-width:25px !important}
+    *#dm *.dmBody div.u_1407848186{
+    padding-top:70px !important;
+    padding-bottom:70px !important}
